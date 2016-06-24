@@ -1,12 +1,17 @@
 574a4aa380f8495500b4cb43 // [DRUM &amp; BASS] Rootkit - Do it [Monstercat Release]
 52d3305fcabc7902000002e8 // [Drumstep] - Tristam & Braken - Flight [Monstercat Release]
 540f8fe3b130780200946ef6 // [Dubstep] - Au5 - Snowblind (feat. Tasha Baxter) [Monstercat Release]
+5609af2f914188030067b702 // [Electro] - Nitro Fun - Cheat Codes [Monstercat Release]
+5609d8c3aba18e03004f9cf0 // [Electro] - Nitro Fun - New Game [Monstercat Release]
 5609b9c622b9fb0300d35b10 // [Electro] - Pegboard Nerds - Disconnected [Monstercat Release]
 53ff0ba68e8a6d0200c41d3e // [Glitch Hop / 110BPM] - Pegboard Nerds - FrainBreeze [Monstercat FREE EP Release]
 560a8c7e67e0090300b951b3 // [Glitch Hop / 110BPM] - Pegboard Nerds - FrainBreeze [Monstercat FREE EP Release]
 5679d860f3351c2800d009ac // [Glitch Hop] - Pegboard Nerds &amp; Tristam - Razor Sharp VIP (Vocal Mix) [Free Download]
+5417812e38edf402002deb7c // [House] - Laszlo - Interstellar [Monstercat Release]
+54907760696f0f02005ffa02 // [House] - Nitro Fun - Soldiers [Monstercat Release]
 533e09aa46f2960200465b25 // [Hard Dance] - Pegboard Nerds - Hero (feat. Elizaveta) [Monstercat Release]
 5601f5fd35dab00300b3b644 // Aero Chord - Surface
+54178127741c06020062a23a // Aero Chord - Surface [Monstercat Release]
 5490b95294a9fa020071241d // Alan Walker - Fade [NCS Release]
 565f4163b41ab3680030a276 // ProleteR - April Showers
 5609add0f9aa800300f760ad // Deaf Kev - Invincible
@@ -28,11 +33,9 @@
 575dcd79fcfdfb2e0093320a // Minecraft PvP Montage - "Flashback" // Lukas Graham - 7 years (T-Mass Remix) [Feat. Toby Romeo]
 56036198b585d003001b4d4c // Nitro Fun - Cheat Codes
 56112dd850a0470300a12e44 // Nitro Fun - Cheat Codes
-5609af2f914188030067b702 // [Electro] - Nitro Fun - Cheat Codes [Monstercat Release]
 56036193b585d003001b4ce8 // Nitro Fun & Sound Remedy - Turbo Penguin
 5609c3346c91e80300c33302 // Nitro Fun - Soldiers
 5603619be86321030046aaf7 // Nitro Fun - Soldiers
-54907760696f0f02005ffa02 // [House] - Nitro Fun - Soldiers [Monstercat Release]
 552db50a749961030023bd94 // Panda Eyes & Teminite - High Score
 5608a92fd8bf0c0300e9c08a // Pegboard Nerds - Disconnected
 5631124ccdc8029500ff8a5a // Pegboard Nerds - Disconnected
