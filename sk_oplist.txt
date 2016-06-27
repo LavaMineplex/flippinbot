@@ -3,6 +3,7 @@
 540f8fe3b130780200946ef6 // [Dubstep] - Au5 - Snowblind (feat. Tasha Baxter) [Monstercat Release]
 5609af2f914188030067b702 // [Electro] - Nitro Fun - Cheat Codes [Monstercat Release]
 5609d8c3aba18e03004f9cf0 // [Electro] - Nitro Fun - New Game [Monstercat Release]
+541b623ff499ba020036ddbf // [Electro] - Nitro Fun - New Game [Monstercat Release]
 5609b9c622b9fb0300d35b10 // [Electro] - Pegboard Nerds - Disconnected [Monstercat Release]
 53ff0ba68e8a6d0200c41d3e // [Glitch Hop / 110BPM] - Pegboard Nerds - FrainBreeze [Monstercat FREE EP Release]
 560a8c7e67e0090300b951b3 // [Glitch Hop / 110BPM] - Pegboard Nerds - FrainBreeze [Monstercat FREE EP Release]
@@ -14,6 +15,7 @@
 5601f5fd35dab00300b3b644 // Aero Chord - Surface
 54178127741c06020062a23a // Aero Chord - Surface [Monstercat Release]
 5490b95294a9fa020071241d // Alan Walker - Fade [NCS Release]
+5661c95d9dd73b1d00b58426 // Alan Walker - Faded
 565f4163b41ab3680030a276 // ProleteR - April Showers
 5609add0f9aa800300f760ad // Deaf Kev - Invincible
 55ff81eec1bc060300c7089f // DEAF KEV - Invincible [NCS Release]
@@ -46,7 +48,9 @@
 560466fa0d5beb0300ac10e3 // San Holo - We Rise
 56854869d2579c2300242b96 // San Holo - We Rise(Meeky Remix)
 560e20e0d0f6210300e7cae6 // San Holo - We Rise [NEST047]
+5600385d621a9e0300316575 // Teminite & Panda Eyes - Highscore
 56ded361fd1fa81800fcc5b9 // The Chainsmokers - Don't Let Me Down (Illenium Remix)
+56f8087e1d4195680019cdfa // The Chainsmokers Ft. Daya - Don&apos;t Let Me Down (Win &amp; Woo Remix)
 563f64c111acd22d00a18b29 // TheFatRat - Monody (feat. Laura Brehm)
 563e4c0d226e571300e1bd94 // TheFatRat - Monody (feat. Laura Brehm)
 56b0c376a615335b01e5d286 // Twenty One Pilots - Stressed Out - Nightcore
